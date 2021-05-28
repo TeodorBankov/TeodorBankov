@@ -7,6 +7,7 @@
     - Java
     - C++ (Not really experienced)
     - C# (Same experience level as Java)
+    - Actively Learning Frontend and Backend
     <br>
 - Photography
     - Star Photography (Still learning)
