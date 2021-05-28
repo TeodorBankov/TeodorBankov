@@ -7,12 +7,15 @@
     - Java
     - C++ (Not really experienced)
     - C# (Same experience level as Java)
+    <br>
 - Photography
     - Star Photography (Still learning)
     - Street Photography
+    <br>
 - Ham Radio
     - Searching all the frequencies 📡
-    - Getting a license soon 
+    - Getting a license soon
+    <br> 
 - Playing with Arduino
     - Building cool lights
     - Making cool gadgets 
@@ -23,12 +26,14 @@
     - Slayer
     - Megadeth
     - And much more!
+    <br>
 - Techno and House🎼
     - Amelie Lens
     - Charlotte de Witte
     - Dax J
     - Kozlov
-    - FISHER    
+    - FISHER
+    <br>    
 - All time favourite songs:
     - [Dax J - Wir Leben Für Die Nacht](https://www.youtube.com/watch?v=jgVrX1u9afY)
     - [FISHER - Losing It](https://www.youtube.com/watch?v=o3WdLtpWM_c)
