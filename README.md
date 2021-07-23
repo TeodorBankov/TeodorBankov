@@ -3,6 +3,7 @@
 ## 🐱‍💻 Main interests:
 - Programming
     - Javascript
+    - Swift (SwiftUI)
     - Python
     - Java
     - C++ (Not really experienced)
