@@ -10,8 +10,8 @@
     - C# (Same experience level as Java)
     - Actively Learning Frontend and Backend
     <br>
-- Photography
-    - Star Photography (Still learning)
+- Photography (casual, amateur)
+    - Star Photography 
     - Street Photography
     <br>
 - Ham Radio
@@ -29,4 +29,5 @@
 ---
 ## 📫 How to reach me:
 - [Telegram](http://t.me/botor4o) <- mainly used
-- [LinkedIn](https://www.linkedin.com/in/tbankov/) <-
+- [LinkedIn](https://www.linkedin.com/in/tbankov/) 
+- [E-mail](mailto://teo_bankov@protonmail.com)
