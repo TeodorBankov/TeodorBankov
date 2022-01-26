@@ -1,5 +1,9 @@
 # Hello world! 🐉
 
+![](https://github.com/TeodorBankov/github-stats/blob/master/generated/overview.svg)
+---
+![](https://github.com/TeodorBankov/github-stats/blob/master/generated/languages.svg)
+
 ## 🐱‍💻 Main interests:
 - Programming
     - Javascript
